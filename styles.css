@@ -1,3 +1,18 @@
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    padding: 1rem;
+  }
+}
+
+:root {
+  --primary-color: #9B5DE5;  /* Violeta brillante */
+  --secondary-color: #CDB4DB;  /* Lila pastel */
+  --accent-color: #FEC8D8; /* Rosa suave como detalle */
+  --bg-color: #F8F7FF;  /* Fondo claro */
+  --text-color: #2D1E40;  /* Texto oscuro */
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   background-color: #f8f0fb;
