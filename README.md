@@ -1,27 +1,45 @@
 # María Fernanda Mamone – Personal Portfolio
 
-Welcome! This is my personal portfolio built with HTML and CSS, showcasing my background as a full stack developer in training. I'm currently completing a master's degree in web development and combining my experience as a dentist with my new passion: building modern, responsive websites.
+![Website Preview](preview.gif)
 
-## 💻 Tech Stack
-- HTML5
-- CSS3
-- Git & GitHub
-- Responsive Web Design
+Welcome to my personal portfolio, built with HTML and CSS and hosted on GitHub Pages. I'm a full stack web developer in training with a background in dentistry, now focused on creating accessible and beautiful websites.
 
-## 🌐 Live Demo
-Check it out live here 👉 [frenchitas.github.io/mfmamone.github.io](https://frenchitas.github.io/mfmamone.github.io/)
-
-## 🎯 About Me
-I'm María Fernanda Mamone, a professional with a background in dentistry and a growing passion for web development. I'm focused on building accessible and beautiful websites using modern tools.
-
-## 🚀 Future Plans
-- Add JavaScript animations
-- Improve accessibility
-- Integrate with a headless CMS
+## 🚀 Live Website
+👉 [Visit my portfolio](https://frenchitas.github.io/mfmamone.github.io/)
 
 ---
 
-✨ Built with love and lilac tones 💜  
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/maría-fernanda-a385ab317)
+## 🛠️ Tech Stack
 
-# mfmamone.github.io
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 👩‍💻 About Me
+
+I'm María Fernanda Mamone, a developer in transition from healthcare to tech. Since 2022 I'm completing a full stack development master's degree and building web projects that combine creativity and functionality.  
+
+💜 Favorite color palette: lilacs and violets  
+🌍 Based in Argentina  
+📚 Learning: JavaScript, responsive design, and WordPress development  
+
+---
+
+## 📈 Goals
+
+- Make this site fully responsive  
+- Add animations and interactive components  
+- Connect with potential clients/employers  
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/maría-fernanda-a385ab317)
+- [GitHub](https://github.com/Frenchitas)
+
+---
+
+> ✨ Built with love, code and violet vibes
